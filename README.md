@@ -1,13 +1,15 @@
-# Database Connection
+# Introduction 
 
-**I know we shouldn't put the password and superuser username on the README. However, We did for educational purpose.**
+As Classifiers, we did the following to build an ontology by identifying subtopics using keyword extraction and zero-shot classification.
 
-```python
-host: openedupgserver.postgres.database.azure.com
-region: East US (US)
-username: openedudadmin
-password: UXK6EDsaAwZBP3r
-JDBC_con_string: jdbc:postgresql://openedupgserver.postgres.database.azure.com:5432/openedud?user=openedudadmin&password=UXK6EDsaAwZBP3r&sslmode=require
-```
+- Retrieve data for the data scientists to work on
+- The data scientists extracted the subtopics
+- Zero-shot classification was used on new data for classification into these subtopics
 
-![DB-SCHEMA](./static/db/OpenEduD-DB.png)
+# Table of Contents
+
+- [Database](./database/README.md)
+- [Source Code](./src)
+- [Data Preparation](./data_prep/)
+- [Documents](./docs/README.md)
+
