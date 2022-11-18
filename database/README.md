@@ -1,6 +1,6 @@
 # Database Connection
 
-**I know we shouldn't put the password and superuser username on the README. However, We did for educational purpose.**
+**We are aware that we shouldn't put the password and superuser username on the README. However, We did for educational purpose.**
 
 ```python
 host: openedupgserver.postgres.database.azure.com
