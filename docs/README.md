@@ -1,4 +1,4 @@
-# How to run the model | keybert and zeroshot classification
+# How to run the model | keybert and zero-shot classification
 
 ## Table of Content
 
