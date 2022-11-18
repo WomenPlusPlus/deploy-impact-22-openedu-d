@@ -7,3 +7,5 @@ username: openedudadmin
 password: UXK6EDsaAwZBP3r
 JDBC_con_string: jdbc:postgresql://openedupgserver.postgres.database.azure.com:5432/openedud?user=openedudadmin&password=UXK6EDsaAwZBP3r&sslmode=require
 ```
+
+![DB-SCHEMA](./static/db/OpenEduD-DB.png)
