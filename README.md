@@ -11,7 +11,7 @@ You can look at the classification the model did on new observations by using ze
 # Table of Contents
 
 - [Database](./database/README.md)
-- [Source Code](./src)
+- [Source Code](./src/model/NLP%20model.ipynb)
 - [Data Preparation](./data_prep/)
 - [Documents](./docs/README.md)
 
