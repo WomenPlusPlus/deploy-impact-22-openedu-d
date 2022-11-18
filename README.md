@@ -1,6 +1,6 @@
 # Database Connection
 
-```
+```python
 host: openedupgserver.postgres.database.azure.com
 region: East US (US)
 username: openedudadmin
